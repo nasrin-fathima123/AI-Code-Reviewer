@@ -87,5 +87,6 @@ if st.button("Refresh"):
         )
 
 
-    st.return()
+    st.stop()
+
 
