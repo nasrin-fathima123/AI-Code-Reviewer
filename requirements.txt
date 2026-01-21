@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 langchain
 langchain-core
 langchain-community
 langchain-huggingface
 huggingface-hub
 python-dotenv
-=======
-langchain
-langchain-core
-langchain-community
-langchain-huggingface
-huggingface-hub
-python-dotenv
->>>>>>> bc15ce42fab1e1aa4ec9fe1605ff34c3e2c6ae42
