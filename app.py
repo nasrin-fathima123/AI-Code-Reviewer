@@ -1,7 +1,6 @@
 import streamlit as st
 from code_parser import parse_code
 from error_detector import detect_errors
-from demo_style_checker import clean_code
 from ai_suggester import get_ai_suggestion
 
 
@@ -86,5 +85,6 @@ if st.button("Refresh"):
         st.session_state.suggestion_index = (
             len(st.session_state.ai_suggestions) - 1
         )
+
 
     st.rerun()
